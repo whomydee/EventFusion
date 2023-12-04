@@ -13,13 +13,13 @@ Make sure you have the following set up before diving into the enchanting world 
 
 ## Integration Steps
 Follow this blog where I go on the step-by-step guide on how to install this -
-Contributing
-We welcome contributions from fellow wizards! Feel free to open issues, submit pull requests, or share your magical ideas in the discussions.
+https://medium.com/@shadhumydee/streamlining-event-updates-integrating-google-calendar-with-google-spaces-68bb4e3657ab
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contribute
+We welcome contributions from fellow wizards! Feel free to open issues, submit pull requests, or share your magical ideas in the discussions.
 Feel free to customize it further based on your project specifics! If you want to add
 any feature/enhancement please give a pull request. And, for bug reports - please use the
 issues.
